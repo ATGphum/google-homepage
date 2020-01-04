@@ -1,0 +1,1 @@
+This current project aims to teach me how to create a superficially pleasing webpage that imitates googles own homepage. This will teach me essential and basic html and css skills, and will enable me to gain experience applying these skills in a basic setting.
