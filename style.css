@@ -19,7 +19,7 @@
 	border-width: 1px;
 	border-radius: 60px;
 	border-color: #dfe1e5;
-
+	margin-bottom: 30px;
 }
 
 #searchbar:hover {
@@ -74,4 +74,32 @@
 	background: #4285f4;
 }
 
+.search-buttons {
+	display: inline;
+	font-size: 15px;
+	font-family: Arial, SANS-SERIF;
+	color: #5f6368;
+	border-style: solid;
+	border-color: #f4f4f4;
+	background-color: #f4f4f4;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 13px;
+	padding-right: 13px;
+	border-radius: 4px;	
+}
 
+.search-buttons:hover {
+	color: black;
+	border-width: 0.5px;
+	border-color: #c6c6c6;
+	box-shadow: 0px 1px 5px 0.01px #d4d4d4;
+}
+
+#google-search {
+	margin-left: 41%;
+}
+
+#lucky {
+	margin-left: 5px;
+}
