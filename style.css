@@ -26,6 +26,13 @@
 	box-shadow: 0px 2px 10px 0.2px #cfd1d9;
 }
 
+#searchicon {
+	position: absolute;
+	width: 20px;
+	top: 304px;
+	left: 33.4%;
+}
+
 #upperrow {
 	padding-top: 0.7%;
 }
