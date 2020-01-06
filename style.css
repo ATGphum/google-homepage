@@ -26,6 +26,10 @@
 	box-shadow: 0px 2px 10px 0.2px #cfd1d9;
 }
 
+#searchbar:focus {
+	outline-style: none;
+}
+
 #searchicon {
 	position: absolute;
 	width: 20px;
