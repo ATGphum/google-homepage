@@ -86,7 +86,7 @@
 	padding-bottom: 7px;
 	padding-left: 13px;
 	padding-right: 13px;
-	border-radius: 4px;	
+	border-radius: 3.5px;	
 }
 
 .search-buttons:hover {
@@ -102,4 +102,54 @@
 
 #lucky {
 	margin-left: 5px;
+}
+
+#lowerrow {
+	position: absolute;
+	bottom: 0px;
+	left: 0;
+	right: 0;
+	height: 40px;
+	background-color: #f2f2f2;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #e4e4e4;
+}
+
+.lowerrow-buttons {
+	position: absolute;
+	font-family: Arial, SANS-SERIF;
+	font-size: 14px;
+	color: #5f6368;
+	bottom: 0px;
+}
+
+.lowerrow-buttons:hover {
+	text-decoration: underline;
+}
+
+
+#advertising {
+	left: 30px;
+
+}
+
+#business {
+	left: 125px;
+}
+
+#works {
+	left: 208px;
+}
+
+#privacy {
+	right: 175px;
+}
+
+#terms {
+	right: 110px;
+}
+
+#settings {
+	right: 30px;
 }
